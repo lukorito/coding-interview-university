@@ -41,11 +41,47 @@
 - [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
 - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 - [Japanese (日本語)](https://github.com/jwasham/coding-interview-university/issues/257)
 
 </details>
+
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+    </p>
+    <p>
+        <strong>Special thanks to:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Dev environments built for the cloud</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
 
 ---
 
@@ -174,7 +210,7 @@ Data Structure ទាំងអស់ដែលខ្ញុំធ្លាប់�
 
 `git commit -m "Marked x"`
 
-`git rebase jwasham/master`
+`git rebase jwasham/main`
 
 `git push --force`
 
@@ -369,8 +405,8 @@ Data Structure ទាំងអស់ដែលខ្ញុំធ្លាប់�
 អ្នកអាចបង្កេីតដោយឥតគិតថ្លៃ៖
 
 - [បណ្តាញឃ្លាំងផ្ទុកកាតឡើងវិញ](https://github.com/jwasham/computer-science-flash-cards)
-- [មូលដ្ឋានទិន្នន័យកាតរបស់ខ្ញុំ (កាតចាស់ - ១២០០ កាត)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db)៖
-- [ប្រព័ន្ធទិន្នន័យកាតរបស់ខ្ញុំ (កាតថ្មី - ១៨០០)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham-extreme.db)៖
+- [មូលដ្ឋានទិន្នន័យកាតរបស់ខ្ញុំ (កាតចាស់ - ១២០០ កាត)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham.db)៖
+- [ប្រព័ន្ធទិន្នន័យកាតរបស់ខ្ញុំ (កាតថ្មី - ១៨០០)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham-extreme.db)៖
 
 សូមចងចាំថាខ្ញុំបានឡើងលើក្តារហើយមានកាតគ្របដណ្តប់លើអ្វីៗទាំងអស់ចាប់ពីភាសាការជួបប្រជុំគ្នា និង សំនួរទាក់ទងនឹង Python រហូតដល់ការរៀនម៉ាស៊ីននិងស្ថិតិ។ វាជាវិធីច្រើនពេកសម្រាប់អ្វីដែលត្រូវការ។
 
@@ -500,13 +536,9 @@ Data Structure ទាំងអស់ដែលខ្ញុំធ្លាប់�
     - អនុវត្តវ៉ិចទ័រប្តូរទំហំដោយស្វ័យប្រវត្តិ។
     - [ ] ការពិពណ៌នា៖
         - [Arrays (វីដេអូ)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
-        -[UC Berkeley CS61B - អារេ លីនែអ៊ែរ និង ពហុវិមាត្រ (វីដេអូ)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (ចាប់ផ្តើមមើលចាប់ពី ១៥នាទី ៣២វិនាទី)
-        - [Arrays មូលដ្ឋាន (វីដេអូ)](https://archive.org/details/0102WhatYouShouldKnow/02_04-basicArrays.mp4)
-        - [ពហុវិមាត្រ (វីដេអូ)](https://archive.org/details/0102WhatYouShouldKnow/02_05-multidimensionalArrays.mp4)
+        - [UC Berkeley CS61B - អារេ លីនែអ៊ែរ និង ពហុវិមាត្រ (វីដេអូ)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (ចាប់ផ្តើមមើលចាប់ពី ១៥នាទី ៣២វិនាទី)
         - [Arrays ឌីណាមិចេ (វីដេអូ)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
         - [Jagged Arrays (វីដេអូ)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
-        - [Jagged Arrays (វីដេអូ)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
-        - [ការប្តូរទំហំ Arrays (វីដេអូ)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
     - [ ] អនុវត្តវ៉ិចទ័រ (បំលែង Arrays ដោយប្តូរទំហំស្វ័យប្រវត្តិ)៖
         - [ ] អនុវត្តការសរសេរកូដដោយប្រើArrays និង ទ្រនិចចង្អុល និង គណិតទ្រនិចដើម្បីលោតទៅសន្ទស្សន៍មួយ។
         - [ ] Arrays ទិន្នន័យថ្មីដែលមានអង្គចងចាំបម្រុងទុក
@@ -573,14 +605,11 @@ Data Structure ទាំងអស់ដែលខ្ញុំធ្លាប់�
 
 - ### Stack
     - [ ] [Stack (វីដេអូ)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
-    - [ ] [ការប្រើ Stack ចូលមុនចេញក្រោយ (វីដេអូ)](https://archive.org/details/0102WhatYouShouldKnow/05_01-usingStacksForLast-inFirst-out.mp4)
     - [ ] នឹងមិនអនុវត្តទេ។ ការអនុវត្តជាមួយ Array គឺមិនសំខាន់។
 
 - ### Queue
-    - [ ] [ការប្រើ Queue ចូលមុនចេញមុន(វីដេអូ)](https://archive.org/details/0102WhatYouShouldKnow/05_03-usingQueuesForFirst-inFirst-out.mp4)
     - [ ] [Queue (វីដេអូ)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
-    - [ ] [Queue អាទិភាព (វីដេអូ)](https://archive.org/details/0102WhatYouShouldKnow/05_04-priorityQueuesAndDeques.mp4)
     - [ ] ប្រើ linked-list ដែលមានភ្ជាប់ជាមួយទ្រនិចនៅកន្ទុយ៖
         - enqueue(តម្លៃ) - បន្ថែមតម្លៃនៅទីតាំងនៅកន្ទុយ
         - dequeue() - ត្រឡប់តម្លៃនិងយកធាតុដែលបានបន្ថែមថ្មីៗចេញ (ផ្នែកខាងមុខ)
@@ -607,10 +636,6 @@ Data Structure ទាំងអស់ដែលខ្ញុំធ្លាប់�
         - [ ] [(ជឿនលឿន) Perfect hashing (វីដេអូ)](https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4)
 
     - [ ] វគ្គសិក្សាអនឡាញ៖
-        - [ ] [ស្វែងយល់អំពីមុខងារ Hash (វីដេអូ)](https://archive.org/details/0102WhatYouShouldKnow/06_02-understandingHashFunctions.mp4)
-        - [ ] [ការប្រើតារាងHash (វីដេអូ)](https://archive.org/details/0102WhatYouShouldKnow/06_03-usingHashTables.mp4)
-        - [ ] [គាំទ្រ Hash (វីដេអូ)](https://archive.org/details/0102WhatYouShouldKnow/06_04- ឧបត្ថម្ភគាំទ្រហាន់ឌ្រី)
-        - [ ] [តារាងជំនួយភាសា Hash(វីដេអូ)](https://archive.org/details/0102WhatYouShouldKnow/06_05-languageSupportForHashTables.mp4)
         - [ ] [Core Hash Tables (វីដេអូ)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
         - [ ] [រចនាសម្ព័ន្ធទិន្នន័យ (វីដេអូ)](https://www.coursera.org/learn/data-structures/home/week/4)
         - [ ] [បញ្ហាសៀវភៅទូរស័ព្ទ (វីដេអូ)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
@@ -639,7 +664,7 @@ Data Structure ទាំងអស់ដែលខ្ញុំធ្លាប់�
         - Binary search ដោយប្រើការហៅខ្លួនឯង
 
 - ### ប្រតិបតិ្តការ Bitwise
-    - [ ] [សន្លឹកជំនួយ Bits](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-sheet.pdf) 
+    - [ ] [សន្លឹកជំនួយ Bits](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/bits-cheat-sheet.pdf) 
         - អ្នកគួរតែស្គាល់ អំណាច ២ ពី (២ ^ ១ ដល់ ២ ^ ១៦ និង ២ ^ ៣២)
     - [ ] ទទួលបានការយល់ដឹងដ៏ល្អអំពីការរៀបចំBitsជាមួយ៖ &, |, ^, ~, >>, <<
         - [ ] [ពាក្យ](https://en.wikipedia.org/wiki/Word_ (computer_architecture))
@@ -901,7 +926,7 @@ Graphs អាចត្រូវបានប្រើដើម្បីបង្�
     - នៅពេលដែលសមរម្យដើម្បីប្រើវា
     - តេី tail recursion ប្រសើរជាងអត់?
         - [ ] [អ្វីជា Tail Recursion និង ហេតុអ្វីបានជាវាអាក្រក់?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Tail Recursion (វីដេអូ)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Tail Recursion (វីដេអូ)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 - ### Dynamic Programming
     - អ្នកប្រហែលជាមិនឃើញមានបញ្ហានៃការសរសេរកម្មវិធី dynamic programming នៅក្នុងបទសម្ភាសន៍របស់អ្នកទេ ប៉ុន្តែវាសមនឹងទទួលបានការទទួលស្គាល់នូវបញ្ហាមួយក្នុងនាមជាបេក្ខជនសម្រាប់ការសរសេរកម្មវិធី dynamic programming។
@@ -1213,7 +1238,7 @@ Graphs អាចត្រូវបានប្រើដើម្បីបង្�
 - [ ] ការអនុវត្តដំណើរការរចនាប្រព័ន្ធ៖ នេះគឺជាគំនិតមួយចំនួនដើម្បីព្យាយាមធ្វើការលើក្រដាសនីមួយៗដោយមានឯកសារមួយចំនួនស្តីពីវិធីដែលត្រូវបានដោះស្រាយនៅក្នុងពិភពពិត៖ 
     - ពិនិត្យឡើងវិញ: [The System Design Primer](https://github.com/donnemartin/system-design-primer)
     - [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
-    - [cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/system-design.pdf)
+    - [cheat sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/system-design.pdf)
     - flow:
         1. ស្វែងយល់ពីបញ្ហានិងវិសាលភាព
             - កំណត់ករណីប្រើប្រាស់ដោយមានជំនួយពីអ្នកសម្ភាសន៍
@@ -1285,7 +1310,6 @@ Graphs អាចត្រូវបានប្រើដើម្បីបង្�
 - [Mathematics for Topcoders](https://www.topcoder.com/community/competitive-programming/tutorials/mathematics-for-topcoders/)
 - [Dynamic Programming – From Novice to Advanced](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - [MIT Interview Materials](https://web.archive.org/web/20160906124824/http://courses.csail.mit.edu/iap/interview/materials.php)
-- [Exercises for getting better at a given language](http://exercism.io/languages)
 
 **អាននិងធ្វើបញ្ហាកម្មវិធី (តាមលំដាប់លំដោយ):**
 
@@ -1323,7 +1347,7 @@ Graphs អាចត្រូវបានប្រើដើម្បីបង្�
 - [TopCoder](https://www.topcoder.com/)
 - [InterviewCake](https://www.interviewcake.com/)
 - [Geeks for Geeks](http://www.geeksforgeeks.org/)
-- [InterviewBit](https://www.interviewbit.com/invite/icjf)
+- [InterviewBit](https://www.interviewbit.com)
 - [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)
 - [Code Exercises](https://code-exercises.com)
 
@@ -1338,7 +1362,7 @@ Challenge repos:
 - [Interactive Coding Interview Challenges in Python](https://github.com/donnemartin/interactive-coding-challenges)
 
 Mock Interviews:
-- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - I used this and it helped me relax for the phone screen and on-site interview
+- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/#!/) - I used this and it helped me relax for the phone screen and on-site interview
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
 - [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies
 - [interviewing.io: Practice mock interview with senior engineers](https://interviewing.io) - anonymous algorithmic/systems design interviews with senior engineers from FAANG anonymously. 
@@ -1681,7 +1705,7 @@ Mock Interviews:
         - [Aduni - Algorithms - Lecture 4 (តំណភ្ជាប់លោតទៅចំណុចចាប់ផ្តើម) (វីដេអូ)](https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871)
         - [Aduni - Algorithms - Lecture 5 (វីដេអូ)](https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5)
         - [Red-Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
-        - [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/community/competitive-programming/tutorials/an-introduction-to-binary-search-and-red-black-trees/)
+        - [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/thrive/articles/An%20Introduction%20to%20Binary%20Search%20and%20Red-Black%20Trees)
 
     - **2-3 search trees**
         - ក្នុងការអនុវត្ត ៖
@@ -1785,7 +1809,6 @@ Mock Interviews:
         - [Google's Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning--ud730)
         - [Google/Kaggle Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
         - [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/drive)
-        - [Metis Online Course ($99 សំរាប់ 2 ខែ)](http://www.thisismetis.com/explore-data-science)
     - ធនធាន:
         - សៀវភៅ:
             - [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/)
@@ -1896,7 +1919,7 @@ Mock Interviews:
 
 - [Computer Science 70, 001 - Spring 2015 - Discrete Mathematics and Probability Theory](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs70-spring2015-berkeley.html)
 
-- [Discrete Mathematics ដោយ Shai Simonson (19 វីដេអូ)](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
+- [Discrete Mathematics ដោយ Shai Simonson (19 វីដេអូ)](https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t)
 
 - [Discrete Mathematics Part 1 by Sarada Herke (5 វីដេអូ)](https://www.youtube.com/playlist?list=PLGxuz-nmYlQPOc4w1Kp2MZrdqOOm4Jxeo)
 
@@ -1937,7 +1960,7 @@ Mock Interviews:
 
 - [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 
-- [Stanford: Programming Paradigms (27 វីដេអូ)](https://www.youtube.com/view_play_list?p=9D558D49CA734A02)
+- [Stanford: Programming Paradigms (27 វីដេអូ)](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
 - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
     - [Course Website along with Slides and Problem Sets](http://www.crypto-textbook.com/)
