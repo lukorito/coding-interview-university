@@ -11,17 +11,6 @@
         <strong>Особые благодарности:</strong>
     </p>
     <p>
-        <a href="https://oss.capital/">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
-            </div>
-            <div>
-                <sup><strong>Основанная в 2018, OSS Capital - первая и единственная венчурная платформа, ориентированная<br>исключительно для поддержки основателей стартапов на ранней стадии COSS (commercial open source - коммерческий открытый источник).</strong></sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
         <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
             <div>
                 <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
@@ -1303,7 +1292,7 @@ Google не возьмёт тебя на работу.
 
 - [ ] Серия 2-3 минутных короткие видео по темам (23 видео)
     - [Видео](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Серия коротких 2-5 минутных видео - Michael Sambol (18 видео):
+- [ ] Серия коротких 2-5 минутных видео - Michael Sambol (38 видео):
     - [Видео](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 
 ---

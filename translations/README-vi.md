@@ -38,17 +38,6 @@ Ghi chú riêng cho việc duy trì và cập nhật bản dịch tiếng Việt
         <strong>Special thanks to:</strong>
     </p>
     <p>
-        <a href="https://oss.capital/">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
-            </div>
-            <div>
-                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
         <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
             <div>
                 <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
@@ -1330,7 +1319,7 @@ Bạn sẽ biết thêm nhiều ứng dụng của đồ thị trong sách của
 
 - [ ] Các video ngắn 2-3 phút (23 video)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Các video ngắn 2-5 phút - Michael Sambol (18 video)
+- [ ] Các video ngắn 2-5 phút - Michael Sambol (38 video)
     - [Videos](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 
 ---

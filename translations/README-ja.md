@@ -42,17 +42,6 @@
         <strong>Special thanks to:</strong>
     </p>
     <p>
-        <a href="https://oss.capital/">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
-            </div>
-            <div>
-                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
         <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
             <div>
                 <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
@@ -1239,7 +1228,7 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 
 - [ ]  2〜3分短編ビデオシリーズ(23ビデオ)
 	- [動画](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] 2〜5分の短編シリーズビデオ - Michael Sambol(18ビデオ)
+- [ ] 2〜5分の短編シリーズビデオ - Michael Sambol(38ビデオ)
 	- [動画](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 
 ---
