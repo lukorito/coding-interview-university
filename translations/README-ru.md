@@ -10,26 +10,24 @@
     <p>
         <strong>Особые благодарности:</strong>
     </p>
-    <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+    <div>
+        <a href="https://algo.monster/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
             <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/algo-monster.png" width="300" alt="AlgoMonster">
             </div>
             <div>
                 <p>
-                    <strong>Среды разработки, созданные для облачных сервисов</strong>
+                    <strong>Master the technical interview without endless grinding.</strong>
                 </p>
             </div>
             <div>
-                <sup>
-                    Изначально интегрированный с GitLab, GitHub и Bitbucket, Gitpod автоматически, продолжительно и предварительно собирает
-                    среды разработки всех ветвей (branches). В результате члены команды могут мгновенно приступить к написанию кода с новыми
-                    средами разработки для каждой новой задачи - независимо от того, создаете ли вы новую функцию (feature), хотите исправить ошибку
-                    или работаете над проверкой кода (code review). 
-                </sup>            
+                <sup>Created by ex-Google engineers, AlgoMonster will help you crush the technical interview in less time 
+                and with fewer sleepless nights grinding away random problems. You will learn the key patterns necessary to solve 
+                any interview question and gain the systematic knowledge you need to prove your expertise. Be more confident 
+                as you walk into that interview!</sup>
             </div>
         </a>
-    </p>
+    </div>
     <hr />
 </div>
 
@@ -302,7 +300,6 @@ Google не возьмёт тебя на работу.
     - [ ] [4 шага к Google без образования в CS](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
     - [ ] [Кодирование на доске](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
     - [ ] [Что думает Google о найме, управлении и культуре](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
-    - [ ] [Эффективное кодирование на доске в процессе собеседования](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
     - [ ] Прохождения собеседования по программированию набор 1:
         - [ ] [Gayle L McDowell - Прохождения собеседования по программированию (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
         - [ ] [Прохождения собеседования по программированию с Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
